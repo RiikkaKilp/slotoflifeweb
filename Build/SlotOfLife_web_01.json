@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SlotOfLife",
+"dataUrl": "SlotOfLife_web_01.data.unityweb",
+"wasmCodeUrl": "SlotOfLife_web_01.wasm.code.unityweb",
+"wasmFrameworkUrl": "SlotOfLife_web_01.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
